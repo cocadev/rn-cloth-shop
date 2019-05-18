@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "import/no-unresolved": [2, { ignore: ['\.png$'] }],
+    "arrow-body-style": 0
+  }
+}

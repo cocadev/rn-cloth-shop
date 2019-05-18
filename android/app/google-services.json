@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565706866853",
+    "firebase_url": "https://fastbuy-fd9d7.firebaseio.com",
+    "project_id": "fastbuy-fd9d7",
+    "storage_bucket": "fastbuy-fd9d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565706866853:android:db1b7473718c0ff3",
+        "android_client_info": {
+          "package_name": "me.furtado.fastbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565706866853-gva4cctpke2gtlbccrignps63q5qnm84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.furtado.fastbuy",
+            "certificate_hash": "4654252d733eecfb13e0eea6578d049eebb2c4f6"
+          }
+        },
+        {
+          "client_id": "565706866853-qb3nb77mifomqk14iuum8tr0jbu912q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQIRbZKCtmWAjN8XvP2E6zp_jRuxggfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565706866853-qb3nb77mifomqk14iuum8tr0jbu912q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
