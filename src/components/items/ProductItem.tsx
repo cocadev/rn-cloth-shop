@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, Text, TouchableOpacity, View } from 'react-native';
-import { ImageButton } from './../../components';
+import { ImageButton } from '..';
 
 import colors from '../../colors';
 import fonts from '../../fonts';
